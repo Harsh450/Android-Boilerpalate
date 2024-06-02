@@ -1,5 +1,4 @@
---------------------- Android Boilerplate ---------------------
--> Project Structure - MVVM Architecture
+Project Structure - MVVM Architecture
 
 ----- Used Libraries -----
 - Ktor
